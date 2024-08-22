@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @galaxyappdeveloper
 - 👀 I’m interested in React js
-- 🌱 I’m currently learning React Native...
+- 🌱 I’m currently working on React Native...
 - 💞️ I’m looking to collaborate on ERP Projects
 - 📫 How to reach me app.sysproerp@gmail.com
 
